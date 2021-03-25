@@ -15,7 +15,7 @@ spec:
         namespace: flux-system
       interval: 1m
   values:
-    replicaCount: 1
+    replicaCount: 2
     resources:
       limits:
         memory: 256Mi
